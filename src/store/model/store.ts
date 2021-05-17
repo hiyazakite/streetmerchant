@@ -128,6 +128,7 @@ export type Model =
   | 'igame vulcan oc'
   | 'jetstream'
   | 'jetstream oc'
+  | 'kingpin'
   | 'ko oc'
   | 'ko'
   | 'master'
